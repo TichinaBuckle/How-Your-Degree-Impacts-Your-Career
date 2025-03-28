@@ -1,7 +1,7 @@
 # How Your Degree Impacts Your Career
 ## Exploratory Data Analysis of College Majors and Career Outcomes
 
-![Project Banner](https://github.com/user-attachments/assets/5abea68b-0591-4630-b1dc-74fdab6d5dfd)
+[![Project Banner](https://github.com/user-attachments/assets/5abea68b-0591-4630-b1dc-74fdab6d5dfd)](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/edit)
 
 ## Project Overview
 This data science project provides a comprehensive analysis of career outcomes across 173 college majors, offering valuable insights into the complex relationship between academic disciplines and professional opportunities.
