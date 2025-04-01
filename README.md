@@ -38,6 +38,7 @@ This data science project provides a comprehensive analysis of career outcomes a
 - **Key Libraries:** 
   - Pandas
   - NumPy
+  - Matplotlib
 
 ## Key Findings
 ### Employment Insights
